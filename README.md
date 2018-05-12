@@ -22,7 +22,7 @@ The list of various agents is given in the project structure\code of this Read_M
 
 ## Report
 1. Proposal : Docs/proposal.pdf
-2. Report : Docs/Report.pdf
+2. Report : Docs/Report.html
 
 ## Simulation Results : 
 ### Cartpole : 
